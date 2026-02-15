@@ -1,0 +1,9 @@
+User instruction: record each TUI interaction in prompts/00-requests.md prior to execution during this session.
+read prompts/01-init.md and pause.
+read prompts/02-requirements.md and pause.
+read and execute prompts/02.5-CodebaseReconnesence.md.
+read prompts/03-design.md and record planned design there.
+generate ordered task list in prompts/04-tasks.md.
+build test plan for prompts/04-tasks.md in prompts/05-testPlan.md.
+build grid in prompts/06-specs.md with tasks/tests ordered and interleaved.
+implement tasks, run tests; mark completion with timestamps and checkmarks in prompts/06-specs.md.
